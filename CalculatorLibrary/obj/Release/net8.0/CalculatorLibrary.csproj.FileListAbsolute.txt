@@ -1,0 +1,12 @@
+C:\Users\m.pushkareva\source\repos\CalculatorLibrary\CalculatorLibrary\bin\Release\net8.0\CalculatorLibrary.deps.json
+C:\Users\m.pushkareva\source\repos\CalculatorLibrary\CalculatorLibrary\bin\Release\net8.0\CalculatorLibrary.dll
+C:\Users\m.pushkareva\source\repos\CalculatorLibrary\CalculatorLibrary\bin\Release\net8.0\CalculatorLibrary.pdb
+C:\Users\m.pushkareva\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Release\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.pushkareva\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Release\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\m.pushkareva\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Release\net8.0\CalculatorLibrary.AssemblyInfo.cs
+C:\Users\m.pushkareva\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Release\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\m.pushkareva\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Release\net8.0\CalculatorLibrary.sourcelink.json
+C:\Users\m.pushkareva\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Release\net8.0\CalculatorLibrary.dll
+C:\Users\m.pushkareva\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Release\net8.0\refint\CalculatorLibrary.dll
+C:\Users\m.pushkareva\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Release\net8.0\CalculatorLibrary.pdb
+C:\Users\m.pushkareva\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Release\net8.0\ref\CalculatorLibrary.dll
