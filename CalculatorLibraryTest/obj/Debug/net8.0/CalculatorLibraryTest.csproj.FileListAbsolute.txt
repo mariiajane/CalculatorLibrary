@@ -203,3 +203,4 @@ C:\Users\m.pushkareva\source\repos\GeometryCalculatorLibrary\CalculatorLibraryTe
 C:\Users\m.pushkareva\source\repos\GeometryCalculatorLibrary\CalculatorLibraryTest\obj\Debug\net8.0\CalculatorLibraryTest.pdb
 C:\Users\m.pushkareva\source\repos\GeometryCalculatorLibrary\CalculatorLibraryTest\obj\Debug\net8.0\CalculatorLibraryTest.genruntimeconfig.cache
 C:\Users\m.pushkareva\source\repos\GeometryCalculatorLibrary\CalculatorLibraryTest\obj\Debug\net8.0\ref\CalculatorLibraryTest.dll
+C:\Users\m.pushkareva\source\repos\GeometryCalculatorLibrary\CalculatorLibraryTest\obj\Debug\net8.0\CalculatorLibraryTest.sourcelink.json

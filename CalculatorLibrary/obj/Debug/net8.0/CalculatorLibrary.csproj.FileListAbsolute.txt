@@ -21,3 +21,4 @@ C:\Users\m.pushkareva\source\repos\GeometryCalculatorLibrary\CalculatorLibrary\o
 C:\Users\m.pushkareva\source\repos\GeometryCalculatorLibrary\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
 C:\Users\m.pushkareva\source\repos\GeometryCalculatorLibrary\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
 C:\Users\m.pushkareva\source\repos\GeometryCalculatorLibrary\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
+C:\Users\m.pushkareva\source\repos\GeometryCalculatorLibrary\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.sourcelink.json
